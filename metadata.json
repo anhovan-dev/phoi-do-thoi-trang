@@ -1,0 +1,5 @@
+{
+  "name": "PHỐI ĐỒ THỜI TRANG",
+  "description": "Một ứng dụng để tạo và chỉnh sửa ảnh bằng văn bản với mô hình Gemini 2.5 Flash Image. Người dùng có thể tạo ảnh mới từ đầu hoặc tải lên ảnh của riêng mình để sửa đổi.",
+  "requestFramePermissions": []
+}
